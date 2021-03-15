@@ -10,4 +10,4 @@
 
 ## Assignment 4
 * **[write_razor_pbs.py](https://github.com/mchizk1/BIOL5153/blob/main/write_razor_pbs.py)** - Python script that automates creation of remote jobs.
-* **[write_pinnacle_slurm.py](https://github.com/mchizk1/BIOL5153/blob/main/write_pinnacle_slurm.py)
+* **[write_pinnacle_slurm.py](https://github.com/mchizk1/BIOL5153/blob/main/write_pinnacle_slurm.py)**
