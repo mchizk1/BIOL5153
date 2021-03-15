@@ -1,9 +1,13 @@
 ## BIOL5153
 
 ### Homework Assignments:
-1. **[CV_chizk.md](https://github.com/mchizk1/BIOL5153/blob/main/CV_chizk.md)** - Markdown formatted CV
 
-2. **[Assn03.tgz](https://github.com/mchizk1/BIOL5153/blob/main/assn03.tgz)** - This compressed tape archive contains all documents relating to assignment 3.
+## Assignment 2
+* **[CV_chizk.md](https://github.com/mchizk1/BIOL5153/blob/main/CV_chizk.md)** - Markdown formatted CV
 
-### Other Submissions:
-1. **[write_razor_pbs.py](https://github.com/mchizk1/BIOL5153/blob/main/write_razor_pbs.py)** - Python script that automates creation of remote jobs.
+## Assignment 3
+* **[Assn03.tgz](https://github.com/mchizk1/BIOL5153/blob/main/assn03.tgz)** - This compressed tape archive contains all documents relating to assignment 3.
+
+## Assignment 4
+* **[write_razor_pbs.py](https://github.com/mchizk1/BIOL5153/blob/main/write_razor_pbs.py)** - Python script that automates creation of remote jobs.
+* **[write_pinnacle_slurm.py](https://github.com/mchizk1/BIOL5153/blob/main/write_pinnacle_slurm.py)
