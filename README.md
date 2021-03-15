@@ -11,3 +11,4 @@
 #### Assignment 4
 * **[write_razor_pbs.py](https://github.com/mchizk1/BIOL5153/blob/main/write_razor_pbs.py)** - Python script that automates creation of Razor jobs
 * **[write_pinnacle_slurm.py](https://github.com/mchizk1/BIOL5153/blob/main/write_pinnacle_slurm.py)** - Python script that automates creation of Pinnacle jobs
+![Proof of write_pinnacle_slurm.py](https://github.com/mchizk1/BIOL5153/blob/main/assn04.jpg)
