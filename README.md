@@ -17,3 +17,6 @@ This image demonstrates the implementation of write_pinnacle_slurm.py on the HPC
 
 #### Assignment 5
 * **[nucleotide_composition.py](https://github.com/mchizk1/BIOL5153/blob/main/nucleotide_composition.py)** - This python script provides nucleotide composition statistics for a provided sequence
+
+#### Assignment 6
+* **[parse_GFF.py]()https://github.com/mchizk1/BIOL5153/blob/main/parse_GFF.py)** - This script extracts a feature in a .gff file from a larger genomic FASTA sequence and prints it to standard out
