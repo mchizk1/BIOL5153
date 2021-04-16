@@ -3,10 +3,10 @@ output: html_document
 ---
 
 <h3 align="center"> Mason Chizk </h3>
-<div align="center">**Cell: (870) 225-8804**</div>
-<div align="center">**Email: mchizk1@gmail.com**</div>
-<div align="center">**671 Gamble Road**</div>
-<div align="center">**Centerton, Arkansas, 72719**</div>
+<div align="center">**Cell: (Redacted)**</div>
+<div align="center">**Email: (Redacted)**</div>
+<div align="center">**316 Plant Sciences Bldg., University of Arkansas**</div>
+<div align="center">**Fayetteville, Arkansas, 72701**</div>
 
 <center> -------------------------------------------------------------------------------------------------------------------------------------------------------------- </center>
 
